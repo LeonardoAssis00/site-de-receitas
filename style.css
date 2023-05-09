@@ -106,7 +106,7 @@ main p{
 }
 
 #ingredientes{
-    border: 1px solid rgba(0, 0, 0, 0.438);
+    border: 1px solid #ff777580;
 }
 #ingredientes > ol{
     list-style: none;
